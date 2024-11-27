@@ -1,0 +1,14 @@
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\bin\Debug\net8.0\Indeksleyiciler2.exe
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\bin\Debug\net8.0\Indeksleyiciler2.deps.json
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\bin\Debug\net8.0\Indeksleyiciler2.runtimeconfig.json
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\bin\Debug\net8.0\Indeksleyiciler2.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\bin\Debug\net8.0\Indeksleyiciler2.pdb
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.AssemblyInfoInputs.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.AssemblyInfo.cs
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.csproj.CoreCompileInputs.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\refint\Indeksleyiciler2.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.pdb
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\Indeksleyiciler2.genruntimeconfig.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Indeksleyiciler2\obj\Debug\net8.0\ref\Indeksleyiciler2.dll
